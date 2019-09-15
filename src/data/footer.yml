@@ -1,21 +1,21 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-dribbble
+    title: Dribbble
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-twitter
+    title: Twitter
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
+  - icon: fa-instagram
+    title: Instagram
     url: '#'
-  - title: Email
-    icon: fa-envelope-o
+  - icon: fa-envelope-o
+    title: Email
     url: '#'
-copyright: '&copy; Spectral'
+copyright: '&copy; X-Squad'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Made by X-Squad
+    url: 'https://www.x-squad.com'
